@@ -1,4 +1,4 @@
-# Exercicios-de-python-faculdade
+# Inteligencia Artificial
 
 Este repositório contém uma lista de exercícios desenvolvidos em Python para a disciplina de Inteligência Artificial, abrangendo conteúdos do nível básico ao intermediário. O objetivo é praticar e avaliar os conhecimentos adquiridos sobre a linguagem.
 
