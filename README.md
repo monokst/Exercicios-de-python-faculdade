@@ -13,6 +13,6 @@ Cada pasta é destinada a uma lista de exercícios específica. Dentro de cada p
 
 # Lista 01
 
-Contém exercícios de Python envolvendo conceitos básicos da linguagem, como variáveis, estruturas condicionais, estruturas de repetição, listas, strings e outras funcionalidades.
+Contém exercícios de Python envolvendo conceitos básicos e intermediário da linguagem, como variáveis, estruturas condicionais, estruturas de repetição, listas, strings e outras funcionalidades.
 
 As demais listas serão adicionadas ao repositório conforme forem desenvolvidas durante a disciplina.
