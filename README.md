@@ -11,7 +11,7 @@ Atualmente, o repositório contém a Lista 01 de exercícios.
 
 Cada pasta é destinada a uma lista de exercícios específica. Dentro de cada pasta estão os respectivos exercícios e o link para o notebook no Google Colab.
 
-Lista 01
+# Lista 01
 
 Contém exercícios de Python envolvendo conceitos básicos da linguagem, como variáveis, estruturas condicionais, estruturas de repetição, listas, strings e outras funcionalidades.
 
