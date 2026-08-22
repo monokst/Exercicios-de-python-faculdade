@@ -24,6 +24,9 @@ O desenvolvimento destas competências é essencial para a modelagem matemática
 
 Tecnologias utilizadas
 NumPy — computação numérica e operações com arrays multidimensionais
+
 SciPy — computação científica e funções matemáticas avançadas
+
 Pandas — manipulação e análise de estruturas de dados tabulares
+
 Matplotlib — visualização gráfica de dados
