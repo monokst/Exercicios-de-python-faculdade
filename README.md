@@ -4,6 +4,7 @@
 Este repositório contém os exercícios desenvolvidos em Python para a disciplina de Inteligência Artificial, abrangendo conteúdos do nível básico ao intermediário. O objetivo é praticar e avaliar os conhecimentos adquiridos sobre a linguagem Python.
 
 Todos os exercícios foram desenvolvidos e executados utilizando o Google Colab.
+As demais listas serão adicionadas ao repositório conforme forem desenvolvidas durante a disciplina.
 
 # Organização do repositório
 
@@ -15,7 +16,6 @@ Cada pasta é destinada a uma lista de exercícios específica. Dentro de cada p
 
 Contém exercícios de Python envolvendo conceitos básicos e intermediário da linguagem, como variáveis, estruturas condicionais, estruturas de repetição, listas, strings e outras funcionalidades.
 
-As demais listas serão adicionadas ao repositório conforme forem desenvolvidas durante a disciplina.
 
 # Lista 02
 Esta atividade tem como objetivo consolidar os conhecimentos teóricos e práticos abordados no material de estudo sobre as principais bibliotecas de Data Science em Python: NumPy, SciPy, Pandas e Matplotlib.
