@@ -23,6 +23,7 @@ Esta atividade tem como objetivo consolidar os conhecimentos teóricos e prátic
 O desenvolvimento destas competências é essencial para a modelagem matemática, manipulação de estruturas tabulares, computação científica de alto desempenho e visualização avançada de dados aplicada à Inteligência Artificial.
 
 Tecnologias utilizadas
+
 NumPy — computação numérica e operações com arrays multidimensionais
 
 SciPy — computação científica e funções matemáticas avançadas
